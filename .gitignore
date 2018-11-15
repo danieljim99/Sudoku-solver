@@ -1,0 +1,6 @@
+
+gitignore/.settings/org.eclipse.jdt.core.prefs
+*.class
+.project
+.classpath
+bin/sudoku.fxml
